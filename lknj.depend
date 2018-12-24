@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1544787557 source:c:\users\admin\desktop\kolos\lknj\main.cpp
+	<iostream>
+	"functions.h"
+
+1544787557 c:\users\admin\desktop\kolos\lknj\functions.h
+	<string>
+
+1544787582 source:c:\users\admin\desktop\kolos\lknj\functions.cpp
+	"functions.h"
+
+1544787968 source:c:\users\admin\desktop\proejkt infa\lknj\main.cpp
+	<iostream>
+	"functions.h"
+
+1544787557 c:\users\admin\desktop\proejkt infa\lknj\functions.h
+	<string>
+
